@@ -1,6 +1,6 @@
 # Python
 ## Hi! I'm haenii. I'm a super-junior developer.. 
-I learning now.. python! 
+I am learning now.. python! 
 And I learned java script ! >> Actually still learning :)
 
 > This is my first-step to python! 
