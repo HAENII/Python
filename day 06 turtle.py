@@ -34,14 +34,14 @@
 #    turtle.right(90)
 
 # 반지름이 30인 원 그리기
-#from turtle import * # turtle을 import하고 전부 생략하겠다.
-#shape("turtle")
-#color("blue")
-#write("원 그리기 시작")
-#penup()
-#goto(100, 100) #goto 100, 100 >>> x축 100, y축 100 만큼 이동해라
-#pendown()
-#circle(30) #(a,b) a = 반지름을 의미
+from turtle import * # turtle을 import하고 전부 생략하겠다.
+shape("turtle")
+color("blue")
+write("원 그리기 시작")
+penup()
+goto(100, 100) #goto 100, 100 >>> x축 100, y축 100 만큼 이동해라
+pendown()
+circle(30) #(a,b) a = 반지름을 의미
 
 # 반복문으로 오각형 만들기 
 # import turtle as t # turtle을 import 할 때 t 라는 변수에 저장한다.
